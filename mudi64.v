@@ -1,4 +1,4 @@
-//a 64-bit signed multiplier and divider, the top module of this project
+//top module, a 64-bit signed multiplier and divider
 
 `timescale 1ns/10ps
 
