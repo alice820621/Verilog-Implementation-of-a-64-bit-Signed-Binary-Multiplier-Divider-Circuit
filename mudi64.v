@@ -1,3 +1,5 @@
+//a 64-bit signed multiplier and divider, the top module of this project
+
 `timescale 1ns/10ps
 
 module mudi64 (result, opera1, opera2, muordi, clock, reset, start, valid);
