@@ -43,3 +43,4 @@ add_full U2 (sum[1], cin2, a[1], b[1], cin1);
 add_full U3 (sum[2], cin3, a[2], b[2], cin2);
 add_full U4 (sum[3], cout, a[3], b[3], cin3);
 endmodule
+
