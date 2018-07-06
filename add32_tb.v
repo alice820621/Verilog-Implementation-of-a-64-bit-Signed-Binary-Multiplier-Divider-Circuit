@@ -1,3 +1,5 @@
+//a testbench for add32.v
+
 module add32_tb ();
   reg [31:0] a,b;
   reg cin;
