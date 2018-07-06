@@ -113,3 +113,4 @@ always @(posedge clock or posedge reset) begin
 	else times = times;
 end
 endmodule
+
