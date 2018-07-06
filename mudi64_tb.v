@@ -1,3 +1,5 @@
+//a testbench for mudi64.v
+
 module mudi64_tb ();
 
 parameter full = 63;
