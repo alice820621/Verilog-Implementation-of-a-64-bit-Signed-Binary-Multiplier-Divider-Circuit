@@ -1,4 +1,4 @@
-//a 32-bit adder including eight sequential 4-bit ripple-carry-adder
+//sub-module, a 32-bit adder including eight sequential 4-bit ripple-carry-adder
 
 module add32 (sum, cout, a, b, cin);
 output [31:0] sum;
